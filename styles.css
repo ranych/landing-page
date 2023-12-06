@@ -61,3 +61,13 @@ button {
 button:hover {
     background-color: #0000FF;
 }
+
+.middle-second {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.whole-sect {
+    display: flex;
+}
