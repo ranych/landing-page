@@ -7,6 +7,7 @@ body {
 img {
     width: 300px;
     height: auto;
+    margin: 20px;
 }
 
 .top-section {
@@ -26,4 +27,21 @@ img {
 a {
     text-decoration: none;
     color: #F9FAF8;
+}
+
+.middle-first {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.main-text {
+    font-size: 48px;
+    font-weight: 900;
+    width: 300px;
+}
+
+.sub-text {
+    width: 400px;
+    font-size: 18px;
 }
