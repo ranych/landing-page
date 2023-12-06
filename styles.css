@@ -1,3 +1,9 @@
+body {
+    font-family: 'Hero New', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
 img {
     width: 300px;
     height: auto;
@@ -5,5 +11,19 @@ img {
 
 .top-section {
     background-color: #1F2937;
+    color: #F9FAF8;
+}
+
+.header {
+    display: flex;
+    justify-content: space-around;
+}
+
+.header-text {
+    margin-top: 20px;
+}
+
+a {
+    text-decoration: none;
     color: #F9FAF8;
 }
