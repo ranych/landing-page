@@ -1,5 +1,5 @@
 body {
-    font-family: 'Hero New', sans-serif;
+    font-family: 'Hero New', roboto;
     margin: 0;
     padding: 0;
 }
@@ -12,7 +12,6 @@ img {
 
 .top-section {
     background-color: #1F2937;
-    color: #F9FAF8;
 }
 
 .header {
@@ -24,16 +23,17 @@ img {
     margin-top: 20px;
     font-size: 24px;
     font-weight: 700;
+    color: #F9FAF8;
 }
 
 .header-links {
-    font-size: 16px;
-    margin-top: 8px;
+    font-size: 18px;
+    margin-top: 6px;
 }
 
 a {
     text-decoration: none;
-    color: #F9FAF8;
+    color: #E5E7EB;
 }
 
 .middle-first {
@@ -47,11 +47,13 @@ a {
     font-size: 48px;
     font-weight: 900;
     width: 300px;
+    color: #F9FAF8;
 }
 
 .sub-text {
     width: 400px;
     font-size: 18px;
+    color: #E5E7EB;
 }
 
 button {
