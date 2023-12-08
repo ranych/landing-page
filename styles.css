@@ -129,6 +129,16 @@ figcaption {
     color: #F9FAF8;
 }
 
+.m4-head {
+    font-size: 22px;
+    font-weight: 700;
+    margin-bottom: -25px;
+}
+
+.m4-sub {
+    font-size: 18px;
+}
+
 .button-2 {
     border: 2px solid #F9FAF8;
 }
