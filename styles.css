@@ -46,8 +46,10 @@ a {
 .main-text {
     font-size: 48px;
     font-weight: 900;
-    width: 300px;
+    width: 350px;
+    margin-bottom: -20px;
     color: #F9FAF8;
+    font-family: 'Roboto', sans-serif;
 }
 
 .sub-text {
@@ -109,6 +111,8 @@ figcaption {
 .quote {
     font-size: 36px;
     width: 910px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 100;
 }
 
 .author {
